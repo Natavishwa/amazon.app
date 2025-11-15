@@ -1,0 +1,3 @@
+z = "STRING"
+print(z)
+
